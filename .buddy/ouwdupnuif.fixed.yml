@@ -1,0 +1,6 @@
+- pipeline: cepwsilwqj
+  name: ouwdupnuif
+  refs:
+  - :default
+  fail_on_prepare_env_warning: true
+  resources: SMALL
